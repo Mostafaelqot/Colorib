@@ -1,0 +1,214 @@
+@media only screen and (max-width: 768px) {
+  * {
+    font-size: 14px;
+  }
+  .container {
+    margin: 0% auto;
+    width: 95%;
+
+  }
+  body {
+    margin: auto 0;
+
+  }
+  h1 {
+    font-size: 30px;
+  }
+  h2 {
+    font-size: 25px;
+  }
+
+  h5,
+  h4,
+  h3 {
+    font-size: 20px;
+  }
+  input {
+    width: 140px;
+    margin-bottom: 8px;
+    height: 0%;
+  }
+  .links {
+    display: none;
+  }
+  .main_header {
+    position: fixed;
+    z-index: 1;
+    padding: 0%;
+    width: 98%;
+  }
+   /* .main_header .container {
+  
+  width: 92%;
+  } */
+
+  .pharghraf {
+    font-size: 16px;
+  }
+  .button,
+  .button_price {
+    font-size: 14px;
+    width: 40%;
+    height: 10%;
+  }
+
+  .main_header .container {
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 100%;
+    padding-left: 2%;
+  }
+  .nav_bar {
+    padding-left: 8%;
+    padding-bottom: 5%;
+    padding-right: 0%;
+  }
+  .hero_section {
+    background-size: cover;
+    background-position: center;
+  }
+  .hero_section .container {
+    padding-top: 7%;
+    height: 450px;
+    align-items: center;
+  }
+
+  .hero_article h3 {
+    left: 31px;
+    top: 239px;
+    font-size: 100px;
+  }
+  .hero_figure {
+    bottom: 0px;
+    right: 22px;
+    top: 486px;
+  }
+  .hero form {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .hero_article p {
+    padding-bottom: 0%;
+    padding-top: 3%;
+    width: 80%;
+  }
+  .line::after {
+    right: 38%;
+    margin-top: 5%;
+  }
+  .special_section .container {
+    padding-top: 5%;
+  }
+  .special_article {
+    width: 60%;
+  }
+  .Propositions_article {
+    width: 80%;
+  }
+  .counter_container {
+    flex-wrap: wrap;
+  }
+  .Propositions_section .button {
+    width: 80%;
+    padding: 0px;
+    margin-top: 5%;
+    height: 0%;
+    padding-left: 14%;
+  }
+
+  .Features_article {
+    width: 90%;
+  }
+  .Features_article .pharghraf {
+    padding-bottom: 0%;
+  }
+
+  .sections_header {
+    padding-top: 6%;
+    padding-bottom: 9%;
+  }
+
+  .Screenshot {
+    width: 30%;
+    margin: 4px;
+  }
+  .Screenshot_point {
+    width: 5px;
+    height: 5px;
+  }
+
+  .Pricing_card {
+    width: 75%;
+    margin-bottom: 11%;
+    margin-left: 5%;
+  }
+  .button_price {
+    font-size: 14px;
+    width: 100%;
+  }
+  .Screenshot_header {
+    padding-bottom: 13%;
+  }
+
+  .review_article .pharghraf {
+    width: 90%;
+    padding-left: 6%;
+  }
+
+  .team_card {
+    padding-top: 7%;
+  }
+  .Team_figure {
+    padding-top: 6%;
+    flex-wrap: wrap;
+  }
+  .team_card {
+    width: 40%;
+  }
+  .fo_container {
+    width: 85%;
+    padding-top: 5%;
+    padding-left: 5%;
+  }
+  footer .container {
+    align-items: baseline;
+    flex-direction: column;
+  }
+  .fo_container p {
+    padding-bottom: 0%;
+    padding-top: 0%;
+  }
+
+  .fo_container input {
+    border-radius: 25px 25px 25px 0;
+    background-color: #fff;
+    width: 100%;
+    padding-bottom: 10px;
+    border: 1px solid #ced4da;
+    margin-bottom: 5%;
+  }
+  .larger {
+    height: 50px;
+  }
+  .fo_container input {
+    width: 90%;
+  }
+
+  .counter_container h4 {
+    font-size: 40px;
+  }
+.counter_item {
+    display: flex;
+    justify-content: flex-end;
+}
+.counter_item{
+width: 23%;
+}
+.review_section .container{
+  margin: 0%;
+}
+
+
+
+}
